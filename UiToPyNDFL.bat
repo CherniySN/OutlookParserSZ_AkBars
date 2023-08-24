@@ -1,0 +1,1 @@
+pyuic5 windowNDFL.ui -o windowNDFL.py
